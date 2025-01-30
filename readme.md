@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/GodwinAblao">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logobank.png" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Account Transactions</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Manage an account with an initial balance of $5000.00, tracking deposits and withdrawals with a complete transaction history.
 </div>
 
 <br />
@@ -22,7 +22,7 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/badge/user/018f0311-e249-4b38-800d-c0a8f9d916d5/project/60a7c2e0-9ab9-413a-ba3f-978da197e63c.svg)](https://wakatime.com/badge/user/018f0311-e249-4b38-800d-c0a8f9d916d5/project/60a7c2e0-9ab9-413a-ba3f-978da197e63c)
 
 ---
 
@@ -62,17 +62,21 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project : This project involves creating a system that manages an account with an initial balance of $5000.00 and records all transaction histories, including deposits and withdrawals.
+- Whats the purpose: The goal of this project is to maintain a detailed transaction history for transparency. 
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Transaction System
+- Login System
+- Logout Function
+- Deposit & Withdraw Functions
+- Real-time Balance Display
+- Hover Effects & Transitions
+
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -119,4 +123,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Github | Get some idea | https://github.com/zyx-0314/Github-Git-Guide |
+| GeeksofGeeks | Get some idea | https://www.geeksforgeeks.org/create-an-online-payment-project-using-html-css-javascript/ |
+| w3schools | Get some idea | https://www.w3schools.com/ |
+| Youtube | Get some idea | https://www.youtube.com/results?search_query=account+transactions+html+css+javascript |
+| Google | Get some idea | https://www.google.com/search?q=account+transactions+html+css+javascript&rlz=1C1CHZN_enPH1076PH1076&oq=account+transactions+html+css+javascript&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMjQ3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8 |
+
